@@ -5,7 +5,6 @@
 ## Parte 3: Registro de Cambios.  
 ## Parte 4: Situación Final.
 
-## Parte 1: Organización y Nomenclatura
 
 ## Parte 1: Organización y Nomenclatura
 
